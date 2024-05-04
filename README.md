@@ -26,9 +26,12 @@ https://github.com/virendra2000/Netra-Advanced-CCTV-Analytical-Solution-UI.git
 ```
 pip install -r requirements.txt
 ```
-3. Downloading the Weight File :
-[![Download Netra](https://img.shields.io/badge/Download-Netra-brightgreen?style=for-the-badge)](https://github.com/your-repo/netra/releases/latest)
-6. Run the application: `python main.py`
+3. Downloading the Weight File :<br/>
+[![Download Netra](https://img.shields.io/badge/Download-Netra-brightgreen?style=for-the-badge)](https://drive.google.com/drive/folders/1HPvSmFC87HlSmb3N4gUnem89bC0QUhKL?usp=sharing)
+
+4. Open the `detection.py` Change the Location of **CFG** and **WEIGHT** file in `detection.py` .
+5. Change the Connection String and Database name and Collection name of your MongoDB Database in `detection.py`.
+6. Run the application: `python main.py` 
 
 ## Contributing
 
