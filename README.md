@@ -18,10 +18,11 @@ Netra is an advanced video analytics solution designed to detect suspicious acti
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/your-repo/netra.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Configure the system settings (CCTV stream URLs, alarm integration, etc.) in `config.py`
-4. Run the application: `python main.py`
+1. Clone the repository:
+```https://github.com/virendra2000/Netra-Advanced-CCTV-Analytical-Solution-UI.git```
+3. Install the required dependencies: `pip install -r requirements.txt`
+4. Configure the system settings (CCTV stream URLs, alarm integration, etc.) in `config.py`
+5. Run the application: `python main.py`
 
 ## Contributing
 
