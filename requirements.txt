@@ -1,0 +1,5 @@
+customtkinter
+torch
+numpy
+torchvision
+pillow
